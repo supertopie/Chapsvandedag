@@ -1,0 +1,27 @@
+.zoekding {
+  overflow: hidden;
+  background-color: #adadad;
+}
+
+
+.zoekding input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+/* zoekbar */
+.hoofdtext {
+  color: #ff0000; 
+}
+
+.backgr{
+  
+}
+body{
+  background-image: url(‘static/img/background.jpg’);
+  
+  
+}
